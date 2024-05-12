@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center" height="200px" border-radius="13px" overflow="hidden">
+<div align="center" height="200px" style="overflow: hidden; border-radius: 13px;">
   <img height="200" src="https://i.pinimg.com/originals/0b/b6/97/0bb697867c25a8ab9d7d0769c941160c.jpg"  />
 </div>
 
