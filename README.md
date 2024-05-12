@@ -1,8 +1,7 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
 ###
-
-<div style="text-align: center; border-radius: 13px; background-color: #f0f0f0; padding: 20px;">
+<div align="center" height="200px">
   <img height="200" src="https://i.pinimg.com/originals/0b/b6/97/0bb697867c25a8ab9d7d0769c941160c.jpg"  />
 </div>
 
